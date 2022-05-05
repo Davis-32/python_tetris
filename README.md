@@ -1,4 +1,4 @@
-# tetris
+# python_tetris
 Beginner tetris game in python using pygame done using a tutorial from Tech with Tim.
 
 A second tetris game takes the basic tutorial and adds modifications, including: 
